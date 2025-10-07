@@ -17,3 +17,8 @@ It allows users to provide feedback (✅ Correct / ❌ Incorrect) to improve mod
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
+
+## Run the App
+
+streamlit run app.py
+
